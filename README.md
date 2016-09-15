@@ -23,10 +23,10 @@ See also:
 
 ## Language runtimes
 
-* `bash` (GNU bash shell)
+* `bash` (GNU bash 4.2.46)
 * `java8`, `javac8`, `javadoc8`, `keytool8`, etc (Java JDK)
-* `lua`, `luac` (Lua programming language)
-* `node` (JavaScript execution environment)
+* `lua`, `luac` (Lua 5.1.4 programming language)
+* `node` (Node 0.10.42, JavaScript execution environment)
 * `perl` (Perl 5.16.3)
 * `python2.7`, `pydoc2.7` (Python 2.7)
 * `python3.4`, `pydoc3.4`, `pyvenv3.4` (Python 3.4)
